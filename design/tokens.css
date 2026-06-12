@@ -1,0 +1,17 @@
+:root{
+  --color-brand-primary: #0A84FF;
+  --color-brand-secondary: #111827;
+  --color-accent: #FF2D55;
+  --color-background: #FFFFFF;
+  --color-surface: #F7F8FA;
+  --color-muted: #9CA3AF;
+
+  --font-family-base: "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial";
+  --font-size-md: 18px;
+  --radius-md: 12px;
+
+  --motion-duration-fast: 120ms;
+  --motion-duration-medium: 260ms;
+  --motion-duration-slow: 480ms;
+  --motion-easing: cubic-bezier(0.22, 1, 0.36, 1);
+}

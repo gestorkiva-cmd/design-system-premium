@@ -1,0 +1,50 @@
+{
+  "color": {
+    "brand-primary": "#0A84FF",
+    "brand-secondary": "#111827",
+    "accent": "#FF2D55",
+    "background": "#FFFFFF",
+    "surface": "#F7F8FA",
+    "muted": "#9CA3AF",
+    "inverse": "#FFFFFF"
+  },
+  "typography": {
+    "family-base": "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial",
+    "size-xxs": "12px",
+    "size-xs": "14px",
+    "size-sm": "16px",
+    "size-md": "18px",
+    "size-lg": "22px",
+    "weight-regular": 400,
+    "weight-medium": 500,
+    "weight-bold": 700
+  },
+  "spacing": {
+    "space-xxs": "4px",
+    "space-xs": "8px",
+    "space-sm": "12px",
+    "space-md": "16px",
+    "space-lg": "24px",
+    "space-xl": "40px"
+  },
+  "radii": {
+    "radius-sm": "6px",
+    "radius-md": "12px",
+    "radius-pill": "9999px"
+  },
+  "elevation": {
+    "shadow-1": "0 1px 4px rgba(2,6,23,0.06)",
+    "shadow-2": "0 8px 24px rgba(2,6,23,0.12)"
+  },
+  "motion": {
+    "duration-fast": 120,
+    "duration-medium": 260,
+    "duration-slow": 480,
+    "easing-standard": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "spring": {
+      "type": "spring",
+      "stiffness": 280,
+      "damping": 32
+    }
+  }
+}
